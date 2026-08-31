@@ -1,0 +1,17 @@
+# Secrets / local configuration
+.env
+.env.*
+website/config.php
+config.local.php
+
+# Backups / logs
+backups/*
+logs/*
+*.log
+*.sql.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
