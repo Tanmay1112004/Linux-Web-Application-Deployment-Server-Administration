@@ -1,4 +1,4 @@
-# Enterprise Linux Web & Database Administration Project — v2
+# Enterprise Linux Web & Database Administration Project 
 
 A portfolio-grade Linux + AWS EC2 project that deploys a modern Student Management Portal and demonstrates practical Linux administration, networking, services, permissions, MariaDB, Bash automation, Cron, monitoring, backups, restore, logging, and troubleshooting.
 
