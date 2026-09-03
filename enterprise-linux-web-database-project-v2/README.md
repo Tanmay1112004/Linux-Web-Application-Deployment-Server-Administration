@@ -637,6 +637,18 @@ And explain at least 5 failures you intentionally created and fixed.
 
 ## Next-level upgrades
 
+After the base project is working, add these in order:
+
+1. HTTPS with SSL/TLS
+2. CloudWatch monitoring
+3. Custom domain + Route 53
+4. Separate DB EC2
+5. GitHub Actions CI
+6. Docker
+7. Terraform
+8. Ansible
+
+Do not add all of them at once. Finish and understand each layer first.
 
 ---
 
